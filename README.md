@@ -10,4 +10,5 @@
     Berikan penjelasan dan contohnya! ( <p id="paragraf-1" class="text-paragraf"> )# Lab2Web
 
                                    Jawaban
-1. Saya menambahkanya 
+1. ![Alt Text](https://1drv.ms/i/c/45165ae86f98468c/EY3X4hSEf9xDtT6MJDRPGWcBHfmsetVLRoYWn8EY1aL4IQ?e=e9xQDL)
+
